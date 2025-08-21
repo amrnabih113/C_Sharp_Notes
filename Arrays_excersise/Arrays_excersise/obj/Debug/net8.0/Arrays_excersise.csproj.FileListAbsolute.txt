@@ -1,0 +1,15 @@
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\bin\Debug\net8.0\Arrays_excersise.exe
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\bin\Debug\net8.0\Arrays_excersise.deps.json
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\bin\Debug\net8.0\Arrays_excersise.runtimeconfig.json
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\bin\Debug\net8.0\Arrays_excersise.dll
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\bin\Debug\net8.0\Arrays_excersise.pdb
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.AssemblyInfoInputs.cache
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.AssemblyInfo.cs
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.csproj.CoreCompileInputs.cache
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.sourcelink.json
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.dll
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\refint\Arrays_excersise.dll
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.pdb
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\Arrays_excersise.genruntimeconfig.cache
+D:\Amr\C_Sharp_Notes\Arrays_excersise\Arrays_excersise\obj\Debug\net8.0\ref\Arrays_excersise.dll

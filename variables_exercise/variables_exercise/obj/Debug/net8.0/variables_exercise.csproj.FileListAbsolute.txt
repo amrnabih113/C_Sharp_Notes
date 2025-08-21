@@ -1,0 +1,15 @@
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\bin\Debug\net8.0\variables_exercise.exe
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\bin\Debug\net8.0\variables_exercise.deps.json
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\bin\Debug\net8.0\variables_exercise.runtimeconfig.json
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\bin\Debug\net8.0\variables_exercise.dll
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\bin\Debug\net8.0\variables_exercise.pdb
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.AssemblyInfoInputs.cache
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.AssemblyInfo.cs
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.csproj.CoreCompileInputs.cache
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.sourcelink.json
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.dll
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\refint\variables_exercise.dll
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.pdb
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\variables_exercise.genruntimeconfig.cache
+D:\Amr\C_Sharp_Notes\variables_exercise\variables_exercise\obj\Debug\net8.0\ref\variables_exercise.dll

@@ -1,0 +1,15 @@
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\bin\Debug\net8.0\Methods_excrsise.exe
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\bin\Debug\net8.0\Methods_excrsise.deps.json
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\bin\Debug\net8.0\Methods_excrsise.runtimeconfig.json
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\bin\Debug\net8.0\Methods_excrsise.dll
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\bin\Debug\net8.0\Methods_excrsise.pdb
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.AssemblyInfoInputs.cache
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.AssemblyInfo.cs
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.csproj.CoreCompileInputs.cache
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.sourcelink.json
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.dll
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\refint\Methods_excrsise.dll
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.pdb
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\Methods_excrsise.genruntimeconfig.cache
+D:\Amr\C_Sharp_Notes\Methods_excrsise\Methods_excrsise\obj\Debug\net8.0\ref\Methods_excrsise.dll

@@ -1,0 +1,15 @@
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\bin\Debug\net8.0\loops_excersise.exe
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\bin\Debug\net8.0\loops_excersise.deps.json
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\bin\Debug\net8.0\loops_excersise.runtimeconfig.json
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\bin\Debug\net8.0\loops_excersise.dll
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\bin\Debug\net8.0\loops_excersise.pdb
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.AssemblyInfoInputs.cache
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.AssemblyInfo.cs
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.csproj.CoreCompileInputs.cache
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.sourcelink.json
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.dll
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\refint\loops_excersise.dll
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.pdb
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\loops_excersise.genruntimeconfig.cache
+D:\Amr\C_Sharp_Notes\loops_excersise\loops_excersise\obj\Debug\net8.0\ref\loops_excersise.dll

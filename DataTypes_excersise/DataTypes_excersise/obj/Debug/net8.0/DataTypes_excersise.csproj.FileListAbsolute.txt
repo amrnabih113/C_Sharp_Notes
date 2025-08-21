@@ -1,0 +1,15 @@
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\bin\Debug\net8.0\DataTypes_excersise.exe
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\bin\Debug\net8.0\DataTypes_excersise.deps.json
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\bin\Debug\net8.0\DataTypes_excersise.runtimeconfig.json
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\bin\Debug\net8.0\DataTypes_excersise.dll
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\bin\Debug\net8.0\DataTypes_excersise.pdb
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.AssemblyInfoInputs.cache
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.AssemblyInfo.cs
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.csproj.CoreCompileInputs.cache
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.sourcelink.json
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.dll
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\refint\DataTypes_excersise.dll
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.pdb
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\DataTypes_excersise.genruntimeconfig.cache
+D:\Amr\C_Sharp_Notes\DataTypes_excersise\DataTypes_excersise\obj\Debug\net8.0\ref\DataTypes_excersise.dll

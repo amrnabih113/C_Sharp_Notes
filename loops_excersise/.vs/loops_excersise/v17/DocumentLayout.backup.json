@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Amr\\C_Sharp_Notes\\loops_excersise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F61EDD6C-A5F5-4036-B669-93A3E8F15825}|loops_excersise\\loops_excersise.csproj|d:\\amr\\c_sharp_notes\\loops_excersise\\loops_excersise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61EDD6C-A5F5-4036-B669-93A3E8F15825}|loops_excersise\\loops_excersise.csproj|solutionrelative:loops_excersise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Amr\\C_Sharp_Notes\\loops_excersise\\loops_excersise\\Program.cs",
+              "RelativeDocumentMoniker": "loops_excersise\\Program.cs",
+              "ToolTip": "D:\\Amr\\C_Sharp_Notes\\loops_excersise\\loops_excersise\\Program.cs*",
+              "RelativeToolTip": "loops_excersise\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T07:32:14.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
