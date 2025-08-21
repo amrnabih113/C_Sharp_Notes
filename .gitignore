@@ -1,0 +1,14 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build folders
+bin/
+obj/
+
+# Ignore Rider / ReSharper files if any
+.idea/
+*.resharper
