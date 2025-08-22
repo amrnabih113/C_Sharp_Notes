@@ -47,6 +47,7 @@ a
 
    * [Virtual vs New](#virtual-vs-new)
 10. [Interfaces](#interfaces)
+11. [Generics](#generics)
     
 ---
 
@@ -1268,6 +1269,38 @@ dog.Speak();
 ```csharp
 IAnimal animal = new IAnimal(); // ❌ Not allowed
 ```
+## Generics
+
+### Definition
+- Create **type-safe classes, methods, interfaces, delegates** using **<T>**.
+- Avoids **boxing/unboxing**, increases **reusability**.
+
+### Key Points
+- `<T>`: Type parameter.
+- Type decided at **compile time**.
+- Supports **constraints** (`where`).
+
+### Examples (Simplified)
+- **Generic Class:** `class Box<T> { T value; }`
+- **Generic Method:** `static void Swap<T>(ref T a, ref T b)`
+- **Constraints:** `where T : class / struct / new() / BaseClass / IInterface`
+
+## Generic Delegates
+
+### Definition
+- Delegates that take **type parameters**.
+- Used for **callbacks** with any type.
+
+### Examples (Simplified)
+- **Generic Delegate:** `delegate T Operation<T>(T x, T y)`
+- **Built-in:**
+  - `Func<T1, TResult>` → returns value.
+  - `Action<T>` → no return.
+  - `Predicate<T>` → returns bool.
+
+### Notes
+- Use built-in delegates (`Func`, `Action`, `Predicate`) instead of creating custom ones.
+- Common in **events, LINQ, async code**.
 
 
 
