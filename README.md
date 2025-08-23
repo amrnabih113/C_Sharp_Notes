@@ -48,6 +48,7 @@ a
    * [Virtual vs New](#virtual-vs-new)
 10. [Interfaces](#interfaces)
 11. [Generics](#generics)
+12. [Exceptions](#exceptions-and-exception-handling)
     
 ---
 
@@ -1304,6 +1305,85 @@ IAnimal animal = new IAnimal(); // ❌ Not allowed
 
 
 
+## Exceptions and Exception Handling 
+
+### What are Exceptions?
+- **Definition:** Errors that occur during program execution.
+- **Base Class:** `System.Exception`
+- **Purpose:** To handle runtime errors gracefully.
+
+### Common Exception Types
+- `System.Exception` → Base class for all exceptions.
+- `System.NullReferenceException` → Accessing a `null` object.
+- `System.IndexOutOfRangeException` → Index outside array bounds.
+- `System.DivideByZeroException` → Division by zero.
+- `System.InvalidOperationException` → Invalid object state.
+- `System.FormatException` → Invalid data format.
+- `System.IO.IOException` → Input/output error.
+
+### Exception Handling
+#### Why?
+- Prevents program crashes.
+- Provides controlled error recovery.
+
+#### Keywords
+- **try** → Code that might throw an exception.
+- **catch** → Handles the exception.
+- **finally** → Executes always (cleanup code).
+- **throw** → Raises an exception.
+
+#### Syntax
+```csharp
+try
+{
+    // Code that may throw an exception
+}
+catch (Exception ex)
+{
+    // Handle exception
+}
+finally
+{
+    // Cleanup code (always runs)
+}
+```
+
+#### Example
+```csharp
+try
+{
+    int x = 10, y = 0;
+    Console.WriteLine(x / y);
+}
+catch (DivideByZeroException ex)
+{
+    Console.WriteLine("Cannot divide by zero!");
+}
+finally
+{
+    Console.WriteLine("Execution completed.");
+}
+```
+
+### Custom Exceptions
+- Create by inheriting `Exception`:
+```csharp
+class MyException : Exception
+{
+    public MyException(string message) : base(message) { }
+}
+```
+
+### Throwing Exceptions
+```csharp
+throw new MyException("Custom error occurred.");
+```
+
+### Best Practices
+- Catch **specific exceptions** before general ones.
+- Avoid **empty catch blocks**.
+- Use **finally** for resource cleanup.
+- Use **custom exceptions** for business-specific errors.
 
 
 
