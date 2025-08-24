@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataTypes_excersise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff4bd47fa8c379d103c845a3c8729d5d1e9ebe72")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afab15b678d40d6a3605eeb0b870b19706af264d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataTypes_excersise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataTypes_excersise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
